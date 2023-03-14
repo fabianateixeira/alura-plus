@@ -177,4 +177,5 @@ body {
 
 .botao_vazado:hover {
     background-color: #1c1c1c;
+    border-color: transparent;
 }
